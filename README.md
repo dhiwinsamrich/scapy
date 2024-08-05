@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/github/issues/dhiwinsamrich/Scapy?style=for-the-badge" alt="Issuse">
 </p>
 
-Welcome to the **Scapy** repository! This project is dedicated to showcasing various network programming and security projects using **Scapy**, a powerful Python library for network packet manipulation.
+<p align="center">Welcome to the **Scapy** repository! This project is dedicated to showcasing various network programming and security projects using Scapy, a powerful Python library for network packet manipulation.</p>
 
 ## 🚀 Features
 - **Packet Sniffing:** Capture network packets in real-time.
