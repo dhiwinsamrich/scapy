@@ -24,6 +24,10 @@
 
 ## 📂 Projects
 
+1. **ARP Spoof Detector**
+   - **Description:** Detect and prevent ARP spoofing attacks.
+   - **Functionality:** Monitor network traffic for ARP spoofing indicators, alert administrators, and block malicious ARP packets.
+   - **Usage:** Enhancing network security by identifying and mitigating ARP spoofing attempts.
 
 ## 📜 Installation
 
@@ -46,14 +50,14 @@ Each project within this repository has its own directory. Navigate to the desir
 ## 📧 Contact
 Feel free to reach out if you have any questions or suggestions!
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **GitHub:** [yourusername](https://github.com/yourusername)
+- **Email:** [dhiwinsamrichj@gmail.com](mailto:dhiwinsamrichj@gmail.com)
+- **GitHub:** [Dhiwin Samrich](https://github.com/dhiwinsamrich)
 
 ## 🤝 Contributing
 We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) for more details.
 
 ## 🐛 Issues
-If you encounter any issues, please create a new issue in the [Issues](https://github.com/yourusername/Scapy/issues) section.
+If you encounter any issues, please create a new issue in the [Issues](https://github.com/dhiwinsamrich/Scapy/issues) section.
 
 ## 📄 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
