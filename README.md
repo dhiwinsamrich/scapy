@@ -29,6 +29,11 @@
    - **Functionality:** Monitor network traffic for ARP spoofing indicators, alert administrators, and block malicious ARP packets.
    - **Usage:** Enhancing network security by identifying and mitigating ARP spoofing attempts.
 
+2. **ARP Spoofer**
+   - **Description:** Perform ARP spoofing attacks.
+   - **Functionality:** Redirect network traffic between devices.
+   - **Usage:** Network security testing and vulnerability assessments.
+
 ## 📜 Installation
 
 Clone the repository and install the required dependencies:
