@@ -34,6 +34,16 @@
    - **Functionality:** Redirect network traffic between devices.
    - **Usage:** Network security testing and vulnerability assessments.
 
+3. **DHCP Listener**
+   - **Description:** Listen for DHCP traffic on a network.
+   - **Functionality:** Capture and analyze DHCP packets to identify devices joining or leaving the network.
+   - **Usage:** Network monitoring, device tracking, and security analysis.
+
+4. **DNS Spoof**
+   - **Description:** Perform DNS spoofing attacks.
+   - **Functionality:** Redirect DNS queries to malicious IP addresses.
+   - **Usage:** Network security testing and vulnerability assessments.
+
 ## 📜 Installation
 
 Clone the repository and install the required dependencies:
