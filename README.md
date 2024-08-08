@@ -44,6 +44,16 @@
    - **Functionality:** Redirect DNS queries to malicious IP addresses.
    - **Usage:** Network security testing and vulnerability assessments.
 
+5. **Fake Access Point**
+   - **Description:** Create a fake access point to attract and monitor potential attackers.
+   - **Functionality:** Simulate an open Wi-Fi network, capture connection attempts, and log attacker activities.
+   - **Usage:** Security research, honeypot deployment, and attacker behavior analysis.
+
+6. **HTTP Code Injector**
+   - **Description:** Inject custom code into HTTP responses.
+   - **Functionality:** Intercept HTTP traffic, modify responses, and inject scripts or content.
+   - **Usage:** Security testing, content filtering, and web application assessments.
+
 ## 📜 Installation
 
 Clone the repository and install the required dependencies:
