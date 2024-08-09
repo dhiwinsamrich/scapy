@@ -54,6 +54,21 @@
    - **Functionality:** Intercept HTTP traffic, modify responses, and inject scripts or content.
    - **Usage:** Security testing, content filtering, and web application assessments.
 
+7. **HTTP Sniffer**
+   - **Description:** Capture and analyze HTTP traffic in real-time.
+   - **Functionality:** Monitor and display HTTP requests and responses.
+   - **Usage:** Web traffic analysis, debugging, and security assessments.
+
+8. **Network Kicker**
+   - **Description:** Disconnect unwanted devices from the network.
+   - **Functionality:** Identify and kick devices from the network by sending deauthentication packets.
+   - **Usage:** Network security management, access control, and testing.
+
+9. **Network Scanner**
+   - **Description:** Scan and identify active devices on the network.
+   - **Functionality:** Perform a comprehensive network scan to list all connected devices.
+   - **Usage:** Network inventory management, security auditing, and discovery.
+
 ## 📜 Installation
 
 Clone the repository and install the required dependencies:
