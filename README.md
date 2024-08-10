@@ -69,6 +69,16 @@
    - **Functionality:** Perform a comprehensive network scan to list all connected devices.
    - **Usage:** Network inventory management, security auditing, and discovery.
 
+10. **SYN Flood**
+   - **Description:** Perform SYN flood attacks to overwhelm a target server.
+   - **Functionality:** Send a flood of SYN requests to a target to exhaust server resources.
+   - **Usage:** Network stress testing, evaluating server resilience against DoS attacks.
+
+11. **WiFi Scanner**
+   - **Description:** Scan and list available WiFi networks.
+   - **Functionality:** Detect nearby WiFi networks, display SSIDs, signal strength, and security protocols.
+   - **Usage:** Network discovery, troubleshooting wireless network issues.
+
 ## 📜 Installation
 
 Clone the repository and install the required dependencies:
